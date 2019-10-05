@@ -1,3 +1,4 @@
+print("HI")
 t=int(input())
 for i in range(t):
     n,x,y=list(map(int,input().split()))
